@@ -16,7 +16,9 @@ I'm a passionate and versatile full-stack developer with a specialization in all
 <br/><br/>
 
 ## Featured projects
+<a href="https://github.com/e-afzal/stash" target="_blank">
 <img style="height:auto; width:250px;" src="https://www.essamafzal.com/_next/image?url=%2Fwork%2Fstash%2Fstash_thumbnail.webp&w=2048&q=75" />
+</a>
 <!--
 **e-afzal/e-afzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
