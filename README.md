@@ -2,7 +2,7 @@
 I'm a passionate and versatile full-stack developer with a specialization in all things JavaScript. With a deep-rooted love for crafting innovative digital solutions, I thrive on turning complex challenges into elegant and efficient code.
 
 ## 🧰 Languages & Tools
-
+<div>
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Sass" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -11,11 +11,12 @@ I'm a passionate and versatile full-stack developer with a specialization in all
 <img align="left" alt="Redux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  </div>
 <br/><br/>
 
 ## Featured projects
-<img style="height:auto; width:250px; border-top-left-radius: 15px; border-top-right-radius: 15px;" src="https://www.essamafzal.com/_next/image?url=%2Fwork%2Fstash%2Fstash_thumbnail.webp&w=2048&q=75" />
+<img style="height:auto; width:250px;" src="https://www.essamafzal.com/_next/image?url=%2Fwork%2Fstash%2Fstash_thumbnail.webp&w=2048&q=75" />
 <!--
 **e-afzal/e-afzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
