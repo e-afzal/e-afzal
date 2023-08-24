@@ -1,6 +1,8 @@
 # Hi, I'm Essam
 I'm a passionate and versatile full-stack developer with a specialization in all things JavaScript. With a deep-rooted love for crafting innovative digital solutions, I thrive on turning complex challenges into elegant and efficient code.
 
+## Featured projects
+
 <!--
 **e-afzal/e-afzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
