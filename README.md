@@ -1,4 +1,4 @@
-# Hi, I'm Essam
+# [Sam] 👨🏻‍💻
 I'm a passionate and versatile full-stack developer with a specialization in all things JavaScript. With a deep-rooted love for crafting innovative digital solutions, I thrive on turning complex challenges into elegant and efficient code.
 
 ## Featured projects
