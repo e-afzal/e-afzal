@@ -2,7 +2,6 @@
 I'm a passionate and versatile full-stack developer with a specialization in all things JavaScript. With a deep-rooted love for crafting innovative digital solutions, I thrive on turning complex challenges into elegant and efficient code.
 
 ## 🧰 Languages & Tools
-<div>
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Sass" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -12,10 +11,8 @@ I'm a passionate and versatile full-stack developer with a specialization in all
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <p style="color:#0d1117;"></p>
-</div>
-
-<br/><br/>
+  <span style="color:red;">text</span>
+<br><br>
 
 <h2 style="display:block;">Featured projects</h2>
 <a href="https://github.com/e-afzal/genesis" target="_blank" style="padding-right:30px">
