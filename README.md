@@ -11,22 +11,6 @@ I'm a passionate and versatile full-stack developer with a specialization in all
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<br/>
-<br/>
-
-#
-#
-
-## Featured projects
-<a href="https://github.com/e-afzal/genesis" target="_blank" style="padding-right:30px">
-<img style="height:auto; width:250px;" src="https://www.essamafzal.com/_next/image?url=%2Fwork%2Fgenesis%2Fgenesis_thumbnail.webp&w=2048&q=75" />
-</a>
-<a href="https://github.com/e-afzal/stash" target="_blank">
-<img style="height:auto; width:250px;" src="https://www.essamafzal.com/_next/image?url=%2Fwork%2Fstash%2Fstash_thumbnail.webp&w=2048&q=75" />
-</a>
-<a href="https://github.com/e-afzal/stash" target="_blank">
-<img style="height:auto; width:250px;" src="https://www.essamafzal.com/_next/image?url=%2Fwork%2Fwolfram_realty%2Fwolfram_thumbnail.webp&w=2048&q=75" />
-</a>
 <!--
 **e-afzal/e-afzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
