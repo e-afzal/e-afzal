@@ -16,7 +16,7 @@ I'm a passionate and versatile full-stack developer with a specialization in all
 <br/><br/>
 
 ## Featured projects
-<a href="https://github.com/e-afzal/genesis" target="_blank" style="margin-right:30px">
+<a href="https://github.com/e-afzal/genesis" target="_blank" style="padding-right:30px">
 <img style="height:auto; width:250px;" src="https://www.essamafzal.com/_next/image?url=%2Fwork%2Fgenesis%2Fgenesis_thumbnail.webp&w=2048&q=75" />
 </a>
 <a href="https://github.com/e-afzal/stash" target="_blank">
