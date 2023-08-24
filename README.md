@@ -1,7 +1,7 @@
 # Essam Afzal 👨🏻‍💻
 I'm a passionate and versatile full-stack developer with a specialization in all things JavaScript. With a deep-rooted love for crafting innovative digital solutions, I thrive on turning complex challenges into elegant and efficient code.
 
-### 🧰 Languages & Tools
+## 🧰 Languages & Tools
 
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -14,9 +14,6 @@ I'm a passionate and versatile full-stack developer with a specialization in all
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<br/>
-<br/>
-<hr/>
 <br/>
 
 ## Featured projects
