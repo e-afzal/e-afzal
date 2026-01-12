@@ -1,28 +1,67 @@
-# 👨🏻‍💻 Essam Afzal
-I'm a passionate and versatile full-stack developer with a specialization in all things JavaScript. With a deep-rooted love for crafting innovative digital solutions, I thrive on turning complex challenges into elegant and efficient code.
+# Hi, I'm Essam 👋
 
-## 🧰 Languages & Tools
-<img align="left" alt="HTML5" width="40px" style="padding-right:10px; padding-bottom:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Sass" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+Frontend Developer specializing in React and Next.js, building production-grade web applications with a focus on design collaboration and user experience.
 
-<!--
-**e-afzal/e-afzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+<!- - 🔭 Currently working at **Professional Pyramid** - leading development of a high-traffic job board platform ->
+- 💼 Building modern web applications using **React, Next.js, and TypeScript**
+- 🎨 Strong focus on **UI/UX design** - from wireframes to production
+- 🌍 Based in **Dubai, UAE** - open to remote opportunities
+- 📚 Former finance professional (7 years) turned developer
+- 🎯 Passionate about bridging **design and development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 🎯 Featured Projects
+
+### [Genesis Motors (Automobile)](https://github.com/e-afzal/genesis)
+Luxury automotive web design implementation showcasing sophisticated UI patterns.  
+**Tech:** React · Next.js · JavaScript · Sass
+
+### [Tabby (Fintech)](https://github.com/e-afzal/tabby)
+Frontend implementation exploring modern UI development and design systems.  
+**Tech:** React · Next.js · Tailwind CSS · Contentful CMS
+
+## 📊 GitHub Stats
+
+![Essam's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-afzal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-afzal&layout=compact&theme=radical)
+
+## 🌱 Currently Learning
+
+- React Native & Mobile Development
+- Advanced TypeScript patterns
+- Performance optimization techniques
+- AI integration in web applications
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/essamafzal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:essam.afzal@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.essamafzal.com)
+
+---
+
+💼 **Open to contract opportunities** | 🌍 **Remote-first** | 🇦🇪 **Based in Dubai**
