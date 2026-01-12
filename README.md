@@ -37,17 +37,11 @@ Frontend Developer specializing in React and Next.js, building production-grade 
 
 ### [Genesis Motors (Automobile)](https://github.com/e-afzal/genesis)
 Luxury automotive web design implementation showcasing sophisticated UI patterns.  
-**Tech:** React · Next.js · JavaScript · Sass
+**Tech stack:** React · Next.js · JavaScript · Sass
 
 ### [Tabby (Fintech)](https://github.com/e-afzal/tabby)
 Frontend implementation exploring modern UI development and design systems.  
-**Tech:** React · Next.js · Tailwind CSS · Contentful CMS
-
-## 📊 GitHub Stats
-
-![Essam's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-afzal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-afzal&layout=compact&theme=radical)
+**Tech stack:** React · Next.js · Tailwind CSS · Contentful CMS
 
 ## 🌱 Currently Learning
 
