@@ -4,7 +4,6 @@ Frontend Developer specializing in React and Next.js, building production-grade 
 
 ## 🚀 About Me
 
-<!- - 🔭 Currently working at **Professional Pyramid** - leading development of a high-traffic job board platform ->
 - 💼 Building modern web applications using **React, Next.js, and TypeScript**
 - 🎨 Strong focus on **UI/UX design** - from wireframes to production
 - 🌍 Based in **Dubai, UAE** - open to remote opportunities
